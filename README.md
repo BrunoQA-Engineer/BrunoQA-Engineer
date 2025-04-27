@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Header](./header-image.png)
+
 <!--
 **BrunoQA-Engineer/BrunoQA-Engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
